@@ -13,3 +13,7 @@ Edit /etc/NetworkManager/NetworkManager.conf (needs to be done with sudo) changi
 Restart network manager with
 
  sudo service network-manager restart
+
+
+.h library add to c program in terminal 
+gcc example_sign.c -o example_sign -I/home/hassan/Documents/sinafile/codes     ->/openssl/digest.h
